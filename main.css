@@ -1,0 +1,18 @@
+*{
+    margin: auto;
+    box-sizing: border-box;
+    padding: 0;
+    color: white;
+}
+
+body{
+    background-image: linear-gradient(to right, #161EE3 , #0B0F72);
+    height: 100vh;
+}
+
+.investment-class{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
